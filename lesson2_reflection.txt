@@ -19,7 +19,7 @@ When adding experimental features or when creating a new version of the project 
 
 How do the diagrams help you visualize the branch structure?
 
-//TODO
+You can see exactly when a new branch has been added and the order in which commits to that branch as well as other branches have been made. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
