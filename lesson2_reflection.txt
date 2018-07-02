@@ -24,7 +24,7 @@ You can see exactly when a new branch has been added and the order in which comm
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-//TODO
+Changes for both branches are committed into the currently checked out branch. The latest commit has the old tips of both branches as parents. It makes sense to use a graph for representation and ideally, we want the graph to become a tree after merging two branches. Commits are ordered chronologically. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
