@@ -15,7 +15,7 @@ By seeing which files are in the staging area and using diff for those files you
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-//TODO
+When adding experimental features or when creating a new version of the project but you also want to keep the legacy code for various reasons.
 
 How do the diagrams help you visualize the branch structure?
 
