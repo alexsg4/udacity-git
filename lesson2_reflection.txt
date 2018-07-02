@@ -5,12 +5,12 @@ A .git directory is created inside the current directory storing the metadata. N
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-//TODO
+The staging area is not part of the repository but of Git itself. It allows us to make temporary changes and experiment with multiple files before committing. (i.e. making permanent changes to the working directory)
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-//TODO
+By seeing which files are in the staging area and using diff for those files you're able to deduce whether or not the files in question store more than one logical change. I guess...
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
