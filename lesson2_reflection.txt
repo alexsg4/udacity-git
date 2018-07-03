@@ -29,4 +29,7 @@ Changes for both branches are committed into the currently checked out branch. T
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-//TODO
+Pros: 
+	-convenience
+Cons:
+	-doesn't always work and it may create conflicts "for no reason".
