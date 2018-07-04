@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Assuming we had no other VCS, I guess we'd keep multiple copies of a project and label them by version. We'd also use diff for comparison and schedule meetings or Skype conferences for discussing "merge conflicts."
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
